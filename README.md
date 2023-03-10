@@ -27,3 +27,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft SQL Server&logoColor=007ACC" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
 &nbsp;
+
+<br>
+<h2 align="center"> Social network </h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.facebook.com/profile.php?id=100008227272816" target="blank">
+    <img src="https://img.icons8.com/clouds/200/facebook.png" alt="tdt.1406-facebook" />
+  </a>
+  <a href="https://www.instagram.com/tdt.1406/" target="blank">
+    <img src="https://img.icons8.com/clouds/200/instagram-new--v3.png" alt="tdt.1406-instagram" />
+  </a>
+</div>
+
+<br>
